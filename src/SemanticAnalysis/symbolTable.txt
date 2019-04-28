@@ -1,0 +1,5 @@
+·ûºÅ ÀàĞÍ Æ«ÒÆ
+x int 0
+y int 4
+a array(2,array(2,int)) 8
+b array(4,char) 24

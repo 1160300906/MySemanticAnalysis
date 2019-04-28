@@ -1,0 +1,393 @@
+Status Stack now have : |0
+Char Stack now have : #
+Use Action->S343
+Status Stack push :343
+Char Stack push : a
+Status Stack now have : |0|343
+Char Stack now have : #a
+Status and Char Stack pop 1 element(s)
+Status Stack push 344
+Use Goto->r38
+Status Stack now have : |0|344
+Char Stack now have : #X
+Status and Char Stack pop 1 element(s)
+Status Stack push 349
+Use Goto->r22
+Status Stack now have : |0|344|349
+Char Stack now have : #XC
+Status and Char Stack pop 2 element(s)
+Status Stack push 350
+Use Goto->r26
+Status Stack now have : |0|350
+Char Stack now have : #T
+Use Action->S351
+Status Stack push :351
+Char Stack push : y
+Status Stack now have : |0|350|351
+Char Stack now have : #Ty
+Use Action->S352
+Status Stack push :352
+Char Stack push : ;
+Status Stack now have : |0|350|351|352
+Char Stack now have : #Ty;
+Status and Char Stack pop 3 element(s)
+Status Stack push 373
+Use Goto->r25
+Status Stack now have : |0|373
+Char Stack now have : #D
+Use Action->S343
+Status Stack push :343
+Char Stack push : a
+Status Stack now have : |0|373|343
+Char Stack now have : #Da
+Status and Char Stack pop 1 element(s)
+Status Stack push 344
+Use Goto->r38
+Status Stack now have : |0|373|344
+Char Stack now have : #DX
+Status and Char Stack pop 1 element(s)
+Status Stack push 349
+Use Goto->r22
+Status Stack now have : |0|373|344|349
+Char Stack now have : #DXC
+Status and Char Stack pop 2 element(s)
+Status Stack push 350
+Use Goto->r26
+Status Stack now have : |0|373|350
+Char Stack now have : #DT
+Use Action->S351
+Status Stack push :351
+Char Stack push : y
+Status Stack now have : |0|373|350|351
+Char Stack now have : #DTy
+Use Action->S352
+Status Stack push :352
+Char Stack push : ;
+Status Stack now have : |0|373|350|351|352
+Char Stack now have : #DTy;
+Status and Char Stack pop 3 element(s)
+Status Stack push 374
+Use Goto->r25
+Status Stack now have : |0|373|374
+Char Stack now have : #DD
+Use Action->S343
+Status Stack push :343
+Char Stack push : a
+Status Stack now have : |0|373|374|343
+Char Stack now have : #DDa
+Status and Char Stack pop 1 element(s)
+Status Stack push 344
+Use Goto->r38
+Status Stack now have : |0|373|374|344
+Char Stack now have : #DDX
+Use Action->S345
+Status Stack push :345
+Char Stack push : [
+Status Stack now have : |0|373|374|344|345
+Char Stack now have : #DDX[
+Use Action->S346
+Status Stack push :346
+Char Stack push : z
+Status Stack now have : |0|373|374|344|345|346
+Char Stack now have : #DDX[z
+Use Action->S347
+Status Stack push :347
+Char Stack push : ]
+Status Stack now have : |0|373|374|344|345|346|347
+Char Stack now have : #DDX[z]
+Use Action->S345
+Status Stack push :345
+Char Stack push : [
+Status Stack now have : |0|373|374|344|345|346|347|345
+Char Stack now have : #DDX[z][
+Use Action->S346
+Status Stack push :346
+Char Stack push : z
+Status Stack now have : |0|373|374|344|345|346|347|345|346
+Char Stack now have : #DDX[z][z
+Use Action->S347
+Status Stack push :347
+Char Stack push : ]
+Status Stack now have : |0|373|374|344|345|346|347|345|346|347
+Char Stack now have : #DDX[z][z]
+Status and Char Stack pop 1 element(s)
+Status Stack push 348
+Use Goto->r22
+Status Stack now have : |0|373|374|344|345|346|347|345|346|347|348
+Char Stack now have : #DDX[z][z]C
+Status and Char Stack pop 4 element(s)
+Status Stack push 348
+Use Goto->r21
+Status Stack now have : |0|373|374|344|345|346|347|348
+Char Stack now have : #DDX[z]C
+Status and Char Stack pop 4 element(s)
+Status Stack push 349
+Use Goto->r21
+Status Stack now have : |0|373|374|344|349
+Char Stack now have : #DDXC
+Status and Char Stack pop 2 element(s)
+Status Stack push 350
+Use Goto->r26
+Status Stack now have : |0|373|374|350
+Char Stack now have : #DDT
+Use Action->S351
+Status Stack push :351
+Char Stack push : y
+Status Stack now have : |0|373|374|350|351
+Char Stack now have : #DDTy
+Use Action->S352
+Status Stack push :352
+Char Stack push : ;
+Status Stack now have : |0|373|374|350|351|352
+Char Stack now have : #DDTy;
+Status and Char Stack pop 3 element(s)
+Status Stack push 374
+Use Goto->r25
+Status Stack now have : |0|373|374|374
+Char Stack now have : #DDD
+Use Action->S342
+Status Stack push :342
+Char Stack push : c
+Status Stack now have : |0|373|374|374|342
+Char Stack now have : #DDDc
+Status and Char Stack pop 1 element(s)
+Status Stack push 344
+Use Goto->r39
+Status Stack now have : |0|373|374|374|344
+Char Stack now have : #DDDX
+Use Action->S345
+Status Stack push :345
+Char Stack push : [
+Status Stack now have : |0|373|374|374|344|345
+Char Stack now have : #DDDX[
+Use Action->S346
+Status Stack push :346
+Char Stack push : z
+Status Stack now have : |0|373|374|374|344|345|346
+Char Stack now have : #DDDX[z
+Use Action->S347
+Status Stack push :347
+Char Stack push : ]
+Status Stack now have : |0|373|374|374|344|345|346|347
+Char Stack now have : #DDDX[z]
+Status and Char Stack pop 1 element(s)
+Status Stack push 348
+Use Goto->r22
+Status Stack now have : |0|373|374|374|344|345|346|347|348
+Char Stack now have : #DDDX[z]C
+Status and Char Stack pop 4 element(s)
+Status Stack push 349
+Use Goto->r21
+Status Stack now have : |0|373|374|374|344|349
+Char Stack now have : #DDDXC
+Status and Char Stack pop 2 element(s)
+Status Stack push 350
+Use Goto->r26
+Status Stack now have : |0|373|374|374|350
+Char Stack now have : #DDDT
+Use Action->S351
+Status Stack push :351
+Char Stack push : y
+Status Stack now have : |0|373|374|374|350|351
+Char Stack now have : #DDDTy
+Use Action->S352
+Status Stack push :352
+Char Stack push : ;
+Status Stack now have : |0|373|374|374|350|351|352
+Char Stack now have : #DDDTy;
+Status and Char Stack pop 3 element(s)
+Status Stack push 374
+Use Goto->r25
+Status Stack now have : |0|373|374|374|374
+Char Stack now have : #DDDD
+Use Action->S247
+Status Stack push :247
+Char Stack push : y
+Status Stack now have : |0|373|374|374|374|247
+Char Stack now have : #DDDDy
+Status and Char Stack pop 1 element(s)
+Status Stack push 337
+Use Goto->r42
+Status Stack now have : |0|373|374|374|374|337
+Char Stack now have : #DDDDG
+Use Action->S338
+Status Stack push :338
+Char Stack push : =
+Status Stack now have : |0|373|374|374|374|337|338
+Char Stack now have : #DDDDG=
+Use Action->S230
+Status Stack push :230
+Char Stack push : z
+Status Stack now have : |0|373|374|374|374|337|338|230
+Char Stack now have : #DDDDG=z
+Status and Char Stack pop 1 element(s)
+Status Stack push 339
+Use Goto->r34
+Status Stack now have : |0|373|374|374|374|337|338|339
+Char Stack now have : #DDDDG=E
+Use Action->S340
+Status Stack push :340
+Char Stack push : ;
+Status Stack now have : |0|373|374|374|374|337|338|339|340
+Char Stack now have : #DDDDG=E;
+Status and Char Stack pop 4 element(s)
+Status Stack push 341
+Use Goto->r13
+Status Stack now have : |0|373|374|374|374|341
+Char Stack now have : #DDDDS
+Use Action->S247
+Status Stack push :247
+Char Stack push : y
+Status Stack now have : |0|373|374|374|374|341|247
+Char Stack now have : #DDDDSy
+Status and Char Stack pop 1 element(s)
+Status Stack push 337
+Use Goto->r42
+Status Stack now have : |0|373|374|374|374|341|337
+Char Stack now have : #DDDDSG
+Use Action->S338
+Status Stack push :338
+Char Stack push : =
+Status Stack now have : |0|373|374|374|374|341|337|338
+Char Stack now have : #DDDDSG=
+Use Action->S230
+Status Stack push :230
+Char Stack push : z
+Status Stack now have : |0|373|374|374|374|341|337|338|230
+Char Stack now have : #DDDDSG=z
+Status and Char Stack pop 1 element(s)
+Status Stack push 339
+Use Goto->r34
+Status Stack now have : |0|373|374|374|374|341|337|338|339
+Char Stack now have : #DDDDSG=E
+Use Action->S340
+Status Stack push :340
+Char Stack push : ;
+Status Stack now have : |0|373|374|374|374|341|337|338|339|340
+Char Stack now have : #DDDDSG=E;
+Status and Char Stack pop 4 element(s)
+Status Stack push 376
+Use Goto->r13
+Status Stack now have : |0|373|374|374|374|341|376
+Char Stack now have : #DDDDSS
+Use Action->S247
+Status Stack push :247
+Char Stack push : y
+Status Stack now have : |0|373|374|374|374|341|376|247
+Char Stack now have : #DDDDSSy
+Status and Char Stack pop 1 element(s)
+Status Stack push 337
+Use Goto->r42
+Status Stack now have : |0|373|374|374|374|341|376|337
+Char Stack now have : #DDDDSSG
+Use Action->S249
+Status Stack push :249
+Char Stack push : [
+Status Stack now have : |0|373|374|374|374|341|376|337|249
+Char Stack now have : #DDDDSSG[
+Use Action->S15
+Status Stack push :15
+Char Stack push : y
+Status Stack now have : |0|373|374|374|374|341|376|337|249|15
+Char Stack now have : #DDDDSSG[y
+Status and Char Stack pop 1 element(s)
+Status Stack push 250
+Use Goto->r33
+Status Stack now have : |0|373|374|374|374|341|376|337|249|250
+Char Stack now have : #DDDDSSG[E
+Use Action->S27
+Status Stack push :27
+Char Stack push : +
+Status Stack now have : |0|373|374|374|374|341|376|337|249|250|27
+Char Stack now have : #DDDDSSG[E+
+Use Action->S15
+Status Stack push :15
+Char Stack push : y
+Status Stack now have : |0|373|374|374|374|341|376|337|249|250|27|15
+Char Stack now have : #DDDDSSG[E+y
+Status and Char Stack pop 1 element(s)
+Status Stack push 28
+Use Goto->r33
+Status Stack now have : |0|373|374|374|374|341|376|337|249|250|27|28
+Char Stack now have : #DDDDSSG[E+E
+Status and Char Stack pop 3 element(s)
+Status Stack push 250
+Use Goto->r27
+Status Stack now have : |0|373|374|374|374|341|376|337|249|250
+Char Stack now have : #DDDDSSG[E
+Use Action->S251
+Status Stack push :251
+Char Stack push : ]
+Status Stack now have : |0|373|374|374|374|341|376|337|249|250|251
+Char Stack now have : #DDDDSSG[E]
+Status and Char Stack pop 4 element(s)
+Status Stack push 333
+Use Goto->r40
+Status Stack now have : |0|373|374|374|374|341|376|333
+Char Stack now have : #DDDDSSL
+Use Action->S334
+Status Stack push :334
+Char Stack push : =
+Status Stack now have : |0|373|374|374|374|341|376|333|334
+Char Stack now have : #DDDDSSL=
+Use Action->S231
+Status Stack push :231
+Char Stack push : y
+Status Stack now have : |0|373|374|374|374|341|376|333|334|231
+Char Stack now have : #DDDDSSL=y
+Status and Char Stack pop 1 element(s)
+Status Stack push 335
+Use Goto->r33
+Status Stack now have : |0|373|374|374|374|341|376|333|334|335
+Char Stack now have : #DDDDSSL=E
+Use Action->S336
+Status Stack push :336
+Char Stack push : ;
+Status Stack now have : |0|373|374|374|374|341|376|333|334|335|336
+Char Stack now have : #DDDDSSL=E;
+Status and Char Stack pop 4 element(s)
+Status Stack push 376
+Use Goto->r14
+Status Stack now have : |0|373|374|374|374|341|376|376
+Char Stack now have : #DDDDSSS
+Status and Char Stack pop 2 element(s)
+Status Stack push 376
+Use Goto->r19
+Status Stack now have : |0|373|374|374|374|341|376
+Char Stack now have : #DDDDSS
+Status and Char Stack pop 2 element(s)
+Status Stack push 341
+Use Goto->r19
+Status Stack now have : |0|373|374|374|374|341
+Char Stack now have : #DDDDS
+Status and Char Stack pop 1 element(s)
+Status Stack push 377
+Use Goto->r4
+Status Stack now have : |0|373|374|374|374|341|377
+Char Stack now have : #DDDDSB
+Status and Char Stack pop 2 element(s)
+Status Stack push 375
+Use Goto->r3
+Status Stack now have : |0|373|374|374|374|375
+Char Stack now have : #DDDDB
+Status and Char Stack pop 2 element(s)
+Status Stack push 375
+Use Goto->r2
+Status Stack now have : |0|373|374|374|375
+Char Stack now have : #DDDB
+Status and Char Stack pop 2 element(s)
+Status Stack push 375
+Use Goto->r2
+Status Stack now have : |0|373|374|375
+Char Stack now have : #DDB
+Status and Char Stack pop 2 element(s)
+Status Stack push 375
+Use Goto->r2
+Status Stack now have : |0|373|375
+Char Stack now have : #DB
+Status and Char Stack pop 2 element(s)
+Status Stack push 378
+Use Goto->r2
+Status Stack now have : |0|378
+Char Stack now have : #B
+Now Accepted!

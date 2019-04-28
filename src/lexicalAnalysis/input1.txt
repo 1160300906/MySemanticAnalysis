@@ -1,0 +1,21 @@
+int x;
+int x;/*repeatDefini*/
+int y;
+char y;/*repeatDefini*/
+char z;
+int [2][2] a;
+char[4] b;
+x=0;
+n=1;/*noDefini*/
+z=x;/*misMatching*/
+while(x>2)
+{
+if(x>0)/*noMatch*/
+{
+a[x][y]=x+y;/*syntaxAnalysis*/
+}
+else
+{
+b[0]=z;
+}
+}
